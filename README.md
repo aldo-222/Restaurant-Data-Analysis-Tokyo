@@ -1,4 +1,4 @@
-# Title 
+# Discoveries in a restaurant in Tokyo: What the consumption data reveals 
 ## Summary
 ### Hallazgos
 ## Individual Products - 単品
