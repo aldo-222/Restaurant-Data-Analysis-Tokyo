@@ -15,14 +15,10 @@ Sales Amount vs Units Sold Matrix(log)
 ![](images/log.png)
 The matrix shows 4 classifications (please open the preview for more details: [code](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) the red ones represent products that we could remove to make the menu lighter.
 ## Nomihoudai - 飲み放題 
-### An Index that shows the customer's perception
+### An Index that shows the customer's perception under noumihoudai options
 ![](images/index.png)
-Ya sea en alguno de los dos nomihoudai o en el consumo regular, este índice revela cuales son las bebidas más 
-
-[Top Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_nomihoudai.png)
-
-[Top Premium Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_premium.png)
-
-[Top Individual Drinks](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_individual.png)
+Under nomihoudai options (unlimited number of drinks two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour raises significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in Individual Drinks.
+However, if we want to see each group by itself: 
+[Top Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_nomihoudai.png) / [Top Premium Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_premium.png) / [Top Individual Drinks](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_individual.png)
 ## Course - コース
 Para ver el código completo, revisar la versión final en el preview 
