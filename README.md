@@ -13,7 +13,7 @@ What about the rest of the products? Let's take a look:
 ### 76 Products at risk of removal (red dots)
 Sales Amount vs Units Sold Matrix(log)
 ![](images/log.png)
-The matrix shows 4 classifications ( para mayor detalle por favor abre el link del código ) the red ones represent products that we could remove to make the menu lighter.
+The matrix shows 4 classifications (please open the preview for more details: [code](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) the red ones represent products that we could remove to make the menu lighter.
 ## Nomihoudai - 飲み放題 
 ### An Index that shows the customer's perception
 ![](images/index.png)
