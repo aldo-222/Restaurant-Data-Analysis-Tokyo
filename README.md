@@ -9,9 +9,10 @@ Tacos are the top-selling individual product, both at lunch and dinner, in terms
 ![](images/pareto.png)
 If we rank products by sales performance (from highest to lowest), we will find that the top 33% account for 80% of sales.
 A clear strategy is to push the sales of the top 5, so we can bias to get the 20% - 80% relation.
-What about the rest of the products?
-### Sales Amount vs Units Sold Matrix: 76 products at risk of removal 
+What about the rest of the products? Let's take a look:
+### Sales Amount vs Units Sold Matrix(log): roducts at risk of removal 
 ![](images/log.png)
+
 ## Nomihoudai - 飲み放題 
 ## Course - コース
 Para ver el código completo, revisar la versión final en el preview 
