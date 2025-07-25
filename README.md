@@ -17,5 +17,9 @@ The matrix shows 4 classifications (please open the preview for more details: [c
 ## Nomihoudai - 飲み放題 
 ### An Index that shows the customer's perception
 ![](images/index.png)
+Ya sea en alguno de los dos nomihoudai o en el consumo regular, este índice revela cuales son las bebidas más 
+Top Nomihoudai![](images/heat_nomihoudai.png)
+Top Nomihoudai Premium![](images/heat_premium.png)
+Top Individual Drinks![](images/heat_individual.png)
 ## Course - コース
 Para ver el código completo, revisar la versión final en el preview 
