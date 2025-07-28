@@ -13,7 +13,7 @@ To explore these, I divided the dataset into three groups and created decision-o
 The project reflects not only what I found, but how I think: with structure, curiosity about behavior, and focus on turning data into real business action.
 The kind of thinking I can bring to any strategy-driven team.
 
-For the full process, including all visualizations and step-by-step, clik [here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)
+For the full process, including all visualizations and step-by-step, click [here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)
 ## 1. Individual Products - 単品
 ### Tacos: The commercial axis in the restaurant
 ![Scatter plot - overview](images/overview.png)
@@ -33,14 +33,15 @@ The matrix shows 4 classifications
 View full notebook with all visualizations [here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) 
 The red ones represent products that we could remove to make the menu lighter.
 ## 2. Nomihoudai - 飲み放題 
-### An Index that shows the customer's perception under noumihoudai options
+### An Index that shows the customer's perception under Noumihoudai options
 ![](images/index.png)
 
 Finding relations between individual drinks and nomihoudai options: Under nomihoudai options (unlimited drinks in two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour raises significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in individual drinks.
 This points to emphasizing the first two in the nomihoudai menus.
-However, if we want to see each group by itself, we can break as: 
+However, if we want to see each group by itself, we can divide it into: 
 ### Beer as the top drink in every option (individual, nomihoudai and premium)
-[Top Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_nomihoudai.png) / [Top Premium Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_premium.png) / [Top Individual Drinks](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_individual.png)
+We can divide into: [Top Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_nomihoudai.png) / [Top Premium Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_premium.png) / [Top Individual Drinks](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_individual.png)
+
 In each of them, beer is on the top (Corona and Asahi). 
 This leads to expanding beer options: adding more variety (IPA, craft beer, Bohemia) to the nomihoudai menu and using premium beer as a differentior in premium nomihoudai.
 ## 3. Course - コース
@@ -56,4 +57,13 @@ If 50 customers switched from regular dinner orders to one of the courses, the a
 ![](images/simulation.png)
 There's a clear opportunity here to promote courses through staff suggestions or by offering free desserts.
 
-Para ver el código completo, revisar la versión final en el preview 
+## Final: Where We Are, and Where We Could Go
+![](images/restaurantdata.png)
+
+Today, over 80% of the restaurant's revenue comes from individual products (dinner, lunch and drinks). But that's exactly why the smaller formats (courses and nomihoudai) stand out: They hold real potential for growth, this is:
+- Nomihoudai doesn't just generate steady revenue, reveals customer preferences.
+- Courses unlock additional revenue that wouldn't happen with individual orders.
+
+
+
+## Closing Recommendations
