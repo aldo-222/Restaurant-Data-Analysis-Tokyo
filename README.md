@@ -1,7 +1,7 @@
 # Discoveries in a restaurant in Tokyo: What the consumption data reveals 
-## Summary
-### Hallazgos
-xxxxxxxxx
+### Based on real sales data and in-store experience, this project uses structured analysis to identify insights, patterns, customer behavior, and actionable strategies to increase profitability.
+## Introduction
+
 ## Individual Products - 単品
 ### Tacos: The commercial axis in the restaurant
 ![Scatter plot - overview](images/overview.png)
