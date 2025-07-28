@@ -1,6 +1,6 @@
 # Discoveries in a restaurant in Tokyo: What the consumption data reveals 
 ### Based on real sales data and in-store experience, this project uses structured analysis to identify insights, patterns, customer behavior, and actionable strategies to increase profitability.
-## Thinkig Through Data
+## Thinking Through Data
 The environment is rich: customers can order individual items, pick a set-course menu, or choose from different types of nomihoudai plans.
 At first glance, it's just variety, but behind I saw a question worth exploring: 
 How does business performance shift when we analyze it strategically
@@ -11,7 +11,8 @@ What I wanted to understand:
 - And how to segment products in a way that drives action
 To explore these i divided the dataset by some groups and created decision-oriented tools: a matrix, a pareto chart, an attraction index and simulations tied to real scenarios.
 The project reflects not only what I found, but how I think: with structure, curiosity about behavior, and focus on turning data into real business action
-The kind of thinking I can bring to any strategy-driven team
+The kind of thinking I can bring to any strategy-driven team.
+For the full process, including all visualizations and step-by-step [analysis](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)
 ## Individual Products - 単品
 ### Tacos: The commercial axis in the restaurant
 ![Scatter plot - overview](images/overview.png)
