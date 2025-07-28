@@ -13,11 +13,12 @@ What about the rest of the products? Let's take a look:
 ### 76 Products at risk of removal (red dots)
 Sales Amount vs Units Sold Matrix(log)
 ![](images/log.png)
-The matrix shows 4 classifications (please open the preview for more details: [code](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) the red ones represent products that we could remove to make the menu lighter.
+The matrix shows 4 classifications (please open the preview in desktop for more details: [code](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) the red ones represent products that we could remove to make the menu lighter.
 ## Nomihoudai - 飲み放題 
 ### An Index that shows the customer's perception under noumihoudai options
 ![](images/index.png)
-Under nomihoudai options (unlimited number of drinks two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour raises significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in Individual Drinks.
+Finding relations between individual drinks and nomihoudai options: Under nomihoudai options (unlimited number of drinks in two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour raises significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in individual drinks.
+This points to emphasize the first two in the nomihoudai menu
 However, if we want to see each group by itself: 
 [Top Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_nomihoudai.png) / [Top Premium Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_premium.png) / [Top Individual Drinks](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_individual.png)
 ## Course - コース
