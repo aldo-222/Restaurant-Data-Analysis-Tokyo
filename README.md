@@ -17,9 +17,12 @@ The matrix shows 4 classifications (please open the preview in desktop for more 
 ## Nomihoudai - 飲み放題 
 ### An Index that shows the customer's perception under noumihoudai options
 ![](images/index.png)
-Finding relations between individual drinks and nomihoudai options: Under nomihoudai options (unlimited number of drinks in two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour raises significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in individual drinks.
-This points to emphasize the first two in the nomihoudai menu
-However, if we want to see each group by itself: 
+Finding relations between individual drinks and nomihoudai options: Under nomihoudai options (unlimited drinks in two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour raises significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in individual drinks.
+This points to emphasizing the first two in the nomihoudai menus.
+However, if we want to see each group by itself, we can break as: 
+### Beer as the top drink in every option (individual, nomihoudai and premium)
 [Top Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_nomihoudai.png) / [Top Premium Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_premium.png) / [Top Individual Drinks](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_individual.png)
+In each of them, beer is on the top (Corona and Asahi). 
+This leads to expanding beer options: adding more variety (IPA, craft beer, Bohemia) to the nomihoudai menu and using premium beer as a differentior in premium nomihoudai.
 ## Course - コース
 Para ver el código completo, revisar la versión final en el preview 
