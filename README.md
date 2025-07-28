@@ -12,6 +12,7 @@ What I wanted to understand:
 To explore these i divided the dataset by some groups and created decision-oriented tools: a matrix, a pareto chart, an attraction index and simulations tied to real scenarios.
 The project reflects not only what I found, but how I think: with structure, curiosity about behavior, and focus on turning data into real business action
 The kind of thinking I can bring to any strategy-driven team.
+
 For the full process, including all visualizations and step-by-step [analysis](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)
 ## Individual Products - 単品
 ### Tacos: The commercial axis in the restaurant
@@ -25,9 +26,8 @@ If we rank products by sales performance (from highest to lowest), we will find 
 A clear strategy is to push the sales of the top 5, so we can bias to get the 20% - 80% relation.
 What about the rest of the products? Let's take a look:
 ### 76 Products at risk of removal (red dots)
-Sales Amount vs Units Sold Matrix(log)
 ![](images/log.png)
-
+Sales Amount vs Units Sold Matrix(log)
 The matrix shows 4 classifications (please open the preview in desktop for more details: [code](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) the red ones represent products that we could remove to make the menu lighter.
 ## Nomihoudai - 飲み放題 
 ### An Index that shows the customer's perception under noumihoudai options
