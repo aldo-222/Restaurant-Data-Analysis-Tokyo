@@ -2,12 +2,12 @@
 ## Based on real sales data and in-store experience, this project uses structured analysis to identify insights, patterns, customer behavior, and actionable strategies to increase profitability.
 ## Thinking Through Data
 The environment is rich: customers can order individual items, pick a set-course menu, or choose from different types of nomihoudai plans.
-At first glance, it's just variety, but behind I saw a question worth exploring: 
+At first glance, it's just variety, but behind it I saw a question worth exploring: 
 How does business performance shift when we analyze it strategically.
 What I wanted to understand: 
 - What truly holds up the business (economic contribution)
 - What hidden customer behaviors emerge when pricing structures change (nomihoudai)
-- Do set courses really help the business, or are they just a comftable option?
+- Do set courses really help the business, or are they just a comfortable option?
 - And how to segment products in a way that drives action
 
 To explore these, I divided the dataset into three groups and created decision-oriented tools: a matrix, a pareto chart, an attraction index and simulations tied to real scenarios.
@@ -19,7 +19,7 @@ For the full process, including all visualizations and step-by-step, click [here
 ### Tacos: The commercial axis in the restaurant
 ![Scatter plot - overview](images/overview.png)
 
-Tacos are the top-selling individual product, both at lunch and dinner, in terms of units sold and total revenue. Quesadillas and burritos follow in third and fourth place, respectively. This data will be visualized in the next graph to identify relationhips.
+Tacos are the top-selling individual product, both at lunch and dinner, in terms of units sold and total revenue. Quesadillas and burritos follow in third and fourth place, respectively. This data will be visualized in the next graph to identify relationships.
 ### 33% of the products account for 80% sales
 ![](images/pareto.png)
 
@@ -37,14 +37,14 @@ The red ones represent products that we could remove to make the menu lighter.
 ### An Index that shows the customer's perception under Noumihoudai options
 ![](images/index.png)
 
-Finding relations between individual drinks and nomihoudai options: Under nomihoudai options (unlimited drinks in two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour raises significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in individual drinks.
+Finding relations between individual drinks and nomihoudai options: Under nomihoudai options (unlimited drinks in two hours), the perceived value of Sparkling Wine, Red Wine and Lemon Sour increases significantly. Corona and HighBall show more balanced consumption across menus, while Cola or Orange Juice are more frequently chosen in individual drinks.
 This points to emphasizing the first two in the nomihoudai menus.
 However, if we want to see each group by itself, we can divide it into: 
 ### Beer as the top drink in every option (individual, nomihoudai and premium)
 We can divide into: [Top Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_nomihoudai.png) / [Top Premium Nomihoudai](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_premium.png) / [Top Individual Drinks](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/images/heat_individual.png)
 
 In each of them, beer is on the top (Corona and Asahi). 
-This leads to expanding beer options: adding more variety (IPA, craft beer, Bohemia) to the nomihoudai menu and using premium beer as a differentior in premium nomihoudai.
+This leads to expanding beer options: adding more variety (IPA, craft beer, Bohemia) to the nomihoudai menu and using premium beer as a differentiator in premium nomihoudai.
 ## 3. Course - コース
 ### How much revenue do we get when customers choose a course?
 ![](images/courses_ticket.png)
