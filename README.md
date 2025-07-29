@@ -29,11 +29,9 @@ What about the rest of the products? Let's take a look:
 ### 76 Products at risk of removal (red dots)
 ![](images/log.png)
 
-Sales Amount vs Units Sold Matrix(log scale)
-
+Sales Amount vs Units Sold Matrix(log scale)  
 The matrix shows 4 classifications 
-View full notebook with all visualizations [here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) 
-
+View full notebook with all visualizations [here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb))  
 The red ones represent products that we could remove to make the menu lighter.
 ## 2. Nomihoudai - 飲み放題 
 ### An Index that shows the customer's perception under Noumihoudai options
@@ -58,6 +56,7 @@ By comparing the dinner average ticket with the prices of the two courses (Mexic
 This confirms that the courses are profitable
 If 50 customers switched from regular dinner orders to one of the courses, the additional revenue would be:
 ![](images/simulation.png)
+
 There's a clear opportunity here to promote courses through staff suggestions or by offering free desserts.
 
 ## Final: Where We Are, and Where We Could Go
@@ -65,8 +64,6 @@ There's a clear opportunity here to promote courses through staff suggestions or
 
 Today, over 80% of the restaurant's revenue comes from individual products (dinner, lunch and drinks). But that's exactly why the smaller formats (courses and nomihoudai) stand out: They hold real potential for growth, this is:
 - Nomihoudai doesn't just generate steady revenue, reveals customer preferences.
-- Courses unlock additional revenue that wouldn't happen with individual orders.
+- Courses unlock additional revenue that wouldn't happen with individual orders.  
 
-
-
-## Closing Recommendations
+They may represent under 20% of revenue today, but courses and nomihoudai show real potential: They raise spend, shift behavior, and open new design space, it's time to grow them, as levers.
