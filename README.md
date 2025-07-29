@@ -9,6 +9,7 @@ What I wanted to understand:
 - What hidden customer behaviors emerge when pricing structures change (nomihoudai)
 - Do set courses really help the business, or are they just a comftable option?
 - And how to segment products in a way that drives action
+
 To explore these, I divided the dataset into three groups and created decision-oriented tools: a matrix, a pareto chart, an attraction index and simulations tied to real scenarios.
 The project reflects not only what I found, but how I think: with structure, curiosity about behavior, and focus on turning data into real business action.
 The kind of thinking I can bring to any strategy-driven team.
@@ -29,8 +30,10 @@ What about the rest of the products? Let's take a look:
 ![](images/log.png)
 
 Sales Amount vs Units Sold Matrix(log scale)
+
 The matrix shows 4 classifications 
 View full notebook with all visualizations [here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)) 
+
 The red ones represent products that we could remove to make the menu lighter.
 ## 2. Nomihoudai - 飲み放題 
 ### An Index that shows the customer's perception under Noumihoudai options
