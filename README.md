@@ -1,21 +1,22 @@
 # Discoveries in a restaurant in Tokyo: What the consumption data reveals 
 ## 日本語の要約はページ下部にあります。
-## Based on real sales data and in-store experience, this project uses structured analysis to identify insights, patterns, customer behavior, and actionable strategies to increase profitability.
+## How do different order formats (individual items, set courses and nomihoudai plans) impact revenue, customer behavior and menu strategy? 
+Based on real sales data and in-store experience, this project uses structured analysis to identify insights, patterns, customer behavior, and actionable strategies to increase profitability.
+## Key Results
+- 33% of products generate 80% of sales
+- 76 low performing products identified as potential removals to simplify the menu
+- Courses unlock additional revenue: F Course +15% and M Course +64% compared to the regular dinner ticket
+- Nomihoudai reveals customer preferences
 ## Thinking Through Data
 The environment is rich: customers can order individual items, pick a set-course menu, or choose from different types of nomihoudai plans.
 At first glance, it's just variety, but behind it I saw a question worth exploring: 
 How does business performance shift when we analyze it strategically.
-What I wanted to understand: 
-- What truly holds up the business (economic contribution)
-- What hidden customer behaviors emerge when pricing structures change (nomihoudai)
-- Do set courses really help the business, or are they just a comfortable option?
-- And how to segment products in a way that drives action
 
 To explore these, I divided the dataset into three groups and created decision-oriented tools: a matrix, a pareto chart, an attraction index and simulations tied to real scenarios.
 The project reflects not only what I found, but how I think: with structure, curiosity about behavior, and focus on turning data into real business action.
 The kind of thinking I can bring to any strategy-driven team.
 
-For the full process, including all visualizations and step-by-step, click [here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)
+[For the full process, including all visualizations and step-by-step, click here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)
 ## 1. Individual Products - 単品
 ### タコス: レストランにおける売上の中心軸
 ### Tacos: The commercial axis in the restaurant
