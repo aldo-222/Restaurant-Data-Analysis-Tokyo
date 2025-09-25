@@ -2,6 +2,8 @@
 ## 日本語の要約はページ下部にあります。
 ## How do different order formats (individual items, set courses and nomihoudai plans) impact revenue, customer behavior and menu strategy? 
 Based on real sales data and in-store experience, this project uses structured analysis to identify insights, patterns, customer behavior, and actionable strategies to increase profitability.
+
+Tech Stack: Python (Pandas, Matplotlib, Seaborn)・Jupyter Notebook・GitHub
 ## Key Results
 - 33% of products generate 80% of sales
 - 76 low performing products identified as potential removals to simplify the menu
