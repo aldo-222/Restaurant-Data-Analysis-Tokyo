@@ -1,14 +1,14 @@
 # Discoveries in a restaurant in Tokyo: What the consumption data reveals 
 ## 日本語の要約はページ下部にあります。
 ## Problem Statement
-How do different order formats (individual items, set courses and nomihoudai plans) impact revenue, customer behavior and menu strategy? 
-## Tech Stack 
-Python (Pandas, Matplotlib, Seaborn)・Jupyter Notebook・GitHub
+How do different order formats (individual items, set courses and nomihoudai plans) impact business performance, customer behavior and menu strategy? 
 ## Key Results
 - 33% of products generate 80% of sales
 - 76 low performing products identified as potential removals to simplify the menu
 - Courses unlock additional revenue: F Course +15% and M Course +64% compared to the regular dinner ticket
 - Nomihoudai reveals customer preferences
+## Tech Stack 
+Python (Pandas, Matplotlib, Seaborn)・Jupyter Notebook・GitHub
 ## Thinking Through Data
 The environment is rich: customers can order individual items, pick a set-course menu, or choose from different types of nomihoudai plans.
 At first glance, it's just variety, but behind it I saw a question worth exploring: 
