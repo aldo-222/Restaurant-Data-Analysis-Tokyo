@@ -1,9 +1,9 @@
 # Discoveries in a restaurant in Tokyo: What the consumption data reveals 
 ## 日本語の要約はページ下部にあります。
-## How do different order formats (individual items, set courses and nomihoudai plans) impact revenue, customer behavior and menu strategy? 
-Based on real sales data and in-store experience, this project uses structured analysis to identify insights, patterns, customer behavior, and actionable strategies to increase profitability.
-
-Tech Stack: Python (Pandas, Matplotlib, Seaborn)・Jupyter Notebook・GitHub
+## Problem Statement
+How do different order formats (individual items, set courses and nomihoudai plans) impact revenue, customer behavior and menu strategy? 
+## Tech Stack 
+Python (Pandas, Matplotlib, Seaborn)・Jupyter Notebook・GitHub
 ## Key Results
 - 33% of products generate 80% of sales
 - 76 low performing products identified as potential removals to simplify the menu
@@ -14,8 +14,7 @@ The environment is rich: customers can order individual items, pick a set-course
 At first glance, it's just variety, but behind it I saw a question worth exploring: 
 How does business performance shift when we analyze it strategically.
 
-To explore these, I divided the dataset into three groups and created decision-oriented tools: a matrix, a pareto chart, an attraction index and simulations tied to real scenarios.
-The project reflects not only what I found, but how I think: with structure, curiosity about behavior, and focus on turning data into real business action.
+To explore these, I divided the dataset into three groups and created decision-oriented tools. The project reflects not only what I found, but how I think: with structure and focus on turning data into real business action.
 The kind of thinking I can bring to any strategy-driven team.
 
 [For the full process, including all visualizations and step-by-step, click here](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/blob/main/notebooks/final_integrated_version.ipynb)
