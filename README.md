@@ -1,4 +1,5 @@
 # Discoveries in a restaurant in Tokyo: What the consumption data reveals 
+[![Run Tests](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/actions/workflows/tests.yml/badge.svg)](https://github.com/aldo-222/Restaurant-Data-Analysis-Tokyo/actions/workflows/tests.yml)
 ## 日本語の要約はページ下部にあります。
 ## Problem Statement
 How do different order formats (individual items, set courses and nomihoudai plans) impact business performance, customer behavior and menu strategy? 
